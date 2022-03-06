@@ -1,2 +1,3 @@
 # Events
 Studentski projekat iz predmeta Veb programiranje implementiran u php-u.
+Korisniku se na pocetnoj stranici prikazuju svi dogadjaji u postojecim dvoranama(koncerti,utakmice,predstave). Korisnik moze da izlista sve dvorane i klikom na jednu konkretnu dvoranu prikazuju mu se svi dogadjaji u toj dvorani. Takodje moze da unese novi dogadjaj i njegove detalje. Klikom na dugme "rezervisi kartu" graficki se prikazuje popunjenost dvorane za odredjeni dogadjaj i to zeleni kruzici za slobodna mesta, a crveni za zauzeta. Posle odabira sedista, korisnik popunjava formu sa podacima. Takodje je omoguceno pretrazivanje dogadjaja po nazivu ili po opisu.
